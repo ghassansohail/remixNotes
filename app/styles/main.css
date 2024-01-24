@@ -32,7 +32,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background: radial-gradient(
     ellipse at top,
-    var(--color-primary-400),
+    #fbf7ff,
     var(--color-primary-100)
   );
   min-height: 100vh;
